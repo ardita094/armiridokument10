@@ -1,0 +1,2 @@
+Notes>
+Writw my fisrt program in C++
